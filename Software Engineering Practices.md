@@ -3,11 +3,11 @@
 
 This is a summary sheet to main aspects os the Machine Learning Engineer Nanodegree course from Udacity.
 
-# 1. Clean Code:
+## 1. Clean Code:
 
 The code you create should be readable, simple and concise.
 
-## Tip: Use meaningful names
+#### Tip: Use meaningful names
 
 * Be descriptive and imply type
     For booleans try to use 'is' or 'has' in the name.
@@ -18,7 +18,7 @@ The code you create should be readable, simple and concise.
 * Long names is different of descriptive names
     arr: standard name to represent an arbritrary array
 
-## Tip: Use white space properly
+#### Tip: Use white space properly
 
 - Organize your code with consisten indentation;
 - Separate sections with blank lines to keep your code well organized
@@ -28,29 +28,43 @@ The code you create should be readable, simple and concise.
 
 [For more guidelines check PEP 8 Style Guide for Python.](https://www.python.org/dev/peps/pep-0008/?#code-lay-out)
 
-2. Modular
-    1. Functions
-	2. Modules
-        - Encapsulating code into Files
+## 2. Modular
+1. Functions
+2. Modules
+    - Encapsulating code into Files
 
-## Tip 1: DRY (Don't repeat yourself)
+#### Tip 1: DRY (Don't repeat yourself)
 
-## Tip 2: Abstract your logic to improve readability
+#### Tip 2: Abstract your logic to improve readability
 
-## Tip 3: Minimize the number of entities (functions, classes, modules, etc.)
+#### Tip 3: Minimize the number of entities (functions, classes, modules, etc.)
 
-## Tip 4: Functions should do one thing
+#### Tip 4: Functions should do one thing
 
-## Tip 5: Arbitrary variables names can be more effective in certain functions
+#### Tip 5: Arbitrary variables names can be more effective in certain functions
 
-## Tip 6: Try to use fewer than three arguments per functions
-
-3. Refactoring Code
-    1. Why?
-        1. Reduce workload in long run
-        2. Easier to maintain code
-        3. Reuse more of your code
-        4. Become a better developer
+#### Tip 6: Try to use fewer than three arguments per functions
 
 
+## 3. Refactoring Code
+1. Why?
+    1. Reduce workload in long run
+    2. Easier to maintain code
+    3. Reuse more of your code
+    4. Become a better developer
 
+
+## 4. Efficient Code
+
+- Reducing run time
+- Reducing space in memory
+
+The importance to improve performance is context dependant. You need to evaluate if improve performance is really crucial to deliver more value to your solution.
+
+
+## 5. Documentation
+
+#### Why documentation ?
+- Clarify complex parts of code
+- Navigate code easily
+- Describe use and purpose of components

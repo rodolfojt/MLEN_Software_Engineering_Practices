@@ -68,3 +68,16 @@ The importance to improve performance is context dependant. You need to evaluate
 - Clarify complex parts of code
 - Navigate code easily
 - Describe use and purpose of components
+
+### Types of documentation
+
+- Line level 
+- Function module level (docstrings)
+- Project level (README.MD)
+
+
+#### Project Level
+
+- What does it do?
+- List its dependencies
+- Detailed instructions on how to use it

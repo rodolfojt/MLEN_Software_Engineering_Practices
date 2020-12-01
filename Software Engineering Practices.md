@@ -1,7 +1,7 @@
 # Udacity Machine Learning Engineer Nanodegree
 ## Software Engineering Practices - Part 1
 
-This is a summary sheet to main aspects os the Machine Learning Engineer Nanodegree course from Udacity.
+This project intend to cover some exercises and a main aspects summary of the Software Engineering Practices which were addressed during Udacity Machine Learning Engineer Nanodegree program.
 
 ## 1. Clean Code:
 

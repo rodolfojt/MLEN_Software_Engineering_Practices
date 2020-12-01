@@ -73,11 +73,21 @@ The importance to improve performance is context dependant. You need to evaluate
 
 - Line level 
 - Function module level (docstrings)
-- Project level (README.MD)
-
+- Project level (README.md file)
 
 #### Project Level
 
 - What does it do?
 - List its dependencies
 - Detailed instructions on how to use it
+
+## 6. Version Control in Data Science
+
+- Create a new branch to work on new features and merge changes firt locally in your develop branch and after push into the remote develop branch.
+- Use git commit messages to describe what you've done and the model most important metrics.
+For example: `git commit -m 'increase features, train: 0.85 cv:.80'`
+- Use `git checkout develop` to change the branch;
+- To pull all the latest changes on develop branch down:
+  `git pull`
+- Use `git merge --no-ff documentation` to merge documentation branch to local develop branch;
+- Finally run `git push origin master`  to changes up to remote repository.

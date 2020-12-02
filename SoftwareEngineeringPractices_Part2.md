@@ -21,3 +21,38 @@ Difficult to find errors, because you need to check the quality and accuracy of 
 #### Test Driven Development
 
 - Writing tests before developing code to implement tasks
+
+
+## 2. Logging 
+
+#### Tip: Be professional and clear
+
+#### Tip: Be concise and use normal capitalization
+
+#### Tip: Choose appropriate level for logging (DEBUG, ERROR and INFO)
+
+#### Tip: Provide any useful information
+
+## 3. Code Review
+
+Goal: Achieving a standard of quality for the whole team.
+
+Specific errors for Data Science: data leakage, misinterpretation of features or inapropriate evaluation methods.
+
+#### Idea: We can use code review questions to analyse our old projects and improve their code.
+
+- Is the code **clean** and **modular**?
+- Is code **efficient**?
+- Is **documentation** effective ?
+- Is the code **well tested**?
+- Is the **logging** effective?
+
+We need to be sure the code follows the best practices in a concise way.
+
+#### Tip: Use a code linter
+
+#### Tip: Explain issues and make suggestions
+
+#### Tip: Keep your comments objective
+
+#### Tip: Provide code examples
